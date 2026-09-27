@@ -1,0 +1,6 @@
+# Student submission notes
+
+Submitted by: IDIAH DANIEL DAVID
+Student ID: UG/22/5806
+
+This Week 1 submission keeps the same functionality while using a slightly different coding style.
